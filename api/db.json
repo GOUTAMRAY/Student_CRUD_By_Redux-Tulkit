@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "id": "bd61",
+      "name": "Goutam Ray",
+      "email": "goutamr362@gmail.com",
+      "roll": "0111",
+      "location": "Rangpur",
+      "photo": "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png"
+    },
+    {
+      "id": "8716",
+      "name": "Shanto ray khan",
+      "email": "shanto@gmail.com",
+      "roll": "02",
+      "location": "dinajpur",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJEABy10QnLp_dlJWIWx8KKu7rV9L6MBKUyeIkuGRMUqYu8VM3F_G4O0YtvXU1j4id_24&usqp=CAU"
+    }
+  ]
+}
